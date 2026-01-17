@@ -82,5 +82,6 @@ public class MainTest {
         assertNotEquals(list.get(0), "Ali");
         assertEquals(list.get(0), "Mehmet");
     }
+    //
 
 }
