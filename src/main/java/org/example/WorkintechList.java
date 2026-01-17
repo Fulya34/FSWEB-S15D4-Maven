@@ -30,6 +30,5 @@ public class WorkintechList<E extends Comparable<E>> extends ArrayList<E> {
         }
         return removed;
     }
-    //Workintech upDate
 }
 

@@ -79,5 +79,4 @@ public class ResultAnalyzer implements TestWatcher, AfterAllCallback {
         }
     }
 
-//Workintech upDate
 }
