@@ -64,4 +64,6 @@ public class Main {
         System.out.println(convertDecimalToBinary(6));
         System.out.println(convertDecimalToBinary(13));
     }
+    //Workintech upDate
+    
 }
